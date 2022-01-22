@@ -26,7 +26,7 @@
     "meow": "^4.0.0",
     "morgan": "^1.9.0",
     "move-decimal-point": "0.0.4",
-    "nanoid": "^1.0.1",
+    "nanoid": "^3.1.31",
     "pug": "^2.0.0-rc.4",
     "qrcode": "^1.2.0",
     "sqlite3": "^3.1.13",
